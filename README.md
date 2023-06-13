@@ -1,5 +1,5 @@
 # RNA-Seq-Anaylsis-Example-Scanpy-Based
-This is from my internship project. I used scanpy and developed configuration functinos which make anaylsis more quick. 
+This is from my internship project. I used scanpy and developed configuration functions which saves time around 15%. 
 To avoid bugs, I recommend you to read manual. 
 
 ## `Manual`
